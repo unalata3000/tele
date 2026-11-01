@@ -5,10 +5,10 @@
     "type": "web",
     "title": "Clean Launcher",
     "appDescription": "Launcher oscuro tipo Apple TV con tus apps, sin anuncios.",
-    "iconUri": "https://raw.githubusercontent.com/unalata3000/clean-launcher/main/icon.png",
-    "sourceUrl": "https://github.com/unalata3000/clean-launcher",
+    "iconUri": "https://raw.githubusercontent.com/unalata3000/tele/main/icon.png",
+    "sourceUrl": "https://github.com/unalata3000/tele",
     "rootRequired": false,
-    "ipkUrl": "https://raw.githubusercontent.com/unalata3000/clean-launcher/main/com.unalata.cleanlauncher_1.0.0_all.ipk",
+    "ipkUrl": "https://raw.githubusercontent.com/unalata3000/tele/main/com.unalata.cleanlauncher_1.0.0_all.ipk",
     "ipkHash": {
       "sha256": "3a2d1e2af741933c1453540bb40429a4c69b9add37e03bde764b7fea338170d4"
     }
